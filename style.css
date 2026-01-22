@@ -1,0 +1,46 @@
+body {
+  background:#0f172a;
+  color:white;
+  font-family:Arial;
+  margin:0;
+  padding:10px;
+}
+input {
+  width:95%;
+  padding:12px;
+  border-radius:10px;
+  border:none;
+  margin-bottom:10px;
+  font-size:16px;
+}
+.brawler {
+  background:#1e293b;
+  padding:14px;
+  border-radius:12px;
+  margin-bottom:8px;
+  cursor:pointer;
+}
+.brawler img {
+  vertical-align: middle;
+  margin-right: 8px;
+  width:40px;
+}
+.tab {
+  display:inline-block;
+  padding:8px 12px;
+  background:#334155;
+  border-radius:8px;
+  margin:5px 3px;
+  font-size:14px;
+  cursor:pointer;
+}
+.active {
+  background:#38bdf8;
+  color:black;
+}
+.card {
+  background:#1e293b;
+  border-radius:14px;
+  padding:14px;
+  margin-top:10px;
+}
